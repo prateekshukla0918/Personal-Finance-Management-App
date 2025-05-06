@@ -4,6 +4,7 @@ import ExpensesChart from '../components/dashboard/ExpensesChart'
 import RecentTransactions from '../components/dashboard/RecentTransactions'
 import BudgetProgress from '../components/dashboard/BudgetProgress'
 import SavingsGoalsCard from '../components/dashboard/SavingsGoalsCard'
+import Navbar from '../components/layout/Navbar'
 
 function Dashboard() {
   const { transactions } = useFinance()
