@@ -15,7 +15,6 @@ function App() {
     <FinanceProvider>
       <Router>
         {/* Render Navbar once, it will always be visible */}
-        <Navbar />
 
         <Routes>
           <Route path="/" element={<Layout />}>
