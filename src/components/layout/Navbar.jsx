@@ -74,7 +74,7 @@ function Navbar({ sidebarOpen, setSidebarOpen }) {
                 <div className="h-8 w-8 rounded-full bg-primary-100 flex items-center justify-center">
                   <FiUser className="h-4 w-4 text-primary-600" />
                 </div>
-                <span className="hidden md:block ml-2 text-sm font-medium">John Doe</span>
+                <span className="hidden md:block ml-2 text-sm font-medium">Prateek Shukla</span>
                 <FiChevronDown className="h-4 w-4 ml-1 text-gray-500" />
               </button>
               
